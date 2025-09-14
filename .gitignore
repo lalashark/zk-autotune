@@ -1,0 +1,15 @@
+# Build artifacts
+/build/
+/results/
+/tmp/
+debug_run_one.log
+
+# Local inputs/outputs
+input.json
+proof.json
+public.json
+witness.wtns
+
+# Backup / temp
+*.bak
+*.tmp
